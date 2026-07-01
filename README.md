@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Larissa Kich
+# Leonardo severo
 
 **`Desenvolvedora FullStack`**
 
