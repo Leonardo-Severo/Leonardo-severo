@@ -30,10 +30,6 @@ Atualmente estou me aprofundando em programação com foco em me tornar um desen
 
 ---
 
-### 📊 Estatísticas
-
-### 📁 Projetos em destaque
-
 ### 📁 Projetos em destaque
 
 🔹 **Bio pessoal (HTML + CSS)**  
