@@ -1,14 +1,3 @@
-# Leonardo severo
-
-**`Desenvolvedora FullStack`**
-
-Sou o Leonardo, estudante do ensino médio e entusiasta da área de tecnologia. Concluí cursos técnicos em Informática e estou atualmente aprofundando meus conhecimentos em desenvolvimento de sistemas e programação, com foco em construir uma base sólida em software e engenharia de software.
-
-Tenho grande interesse por desenvolvimento web e programação, principalmente em linguagens como Java, Python e JavaScript. Busco constantemente aprender na prática, desenvolvendo projetos que me ajudam a evoluir como futuro profissional da área de TI.
-
-Estou em constante crescimento e direcionando minha carreira para atuar no setor de tecnologia, com o objetivo de me tornar um desenvolvedor e seguir me especializando em  software.
-
-<h1 align="center">Olá 👋, eu sou Leonardo Severo</h1>
 
 <p align="center">
   💻 Desenvolvedor em formação | 🎓 Técnico em Informática | 📚 Foco em Java, Python e Desenvolvimento Web
@@ -41,32 +30,19 @@ Atualmente estou me aprofundando em programação com foco em me tornar um desen
 
 ### 📊 Estatísticas
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Leonardo-Severo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Severo&theme=tokyonight&layout=compact"
-  />
-</p>
-
----
+### 📁 Projetos em destaque
 
 ### 📁 Projetos em destaque
 
-🔹 **Sistema de Controle de Produção**  
-Projeto em desenvolvimento para gerenciamento de produção industrial, cadastro de funcionários e controle diário de atividades.  
-Tecnologias: Java, Spring Boot, MySQL
+🔹 **Bio pessoal (HTML + CSS)**  
+Projeto de página pessoal para apresentação profissional, focado em estruturação de perfil e identidade visual utilizando apenas HTML e CSS.
 
-🔹 **Portfólio Pessoal Web**  
-Site pessoal para apresentação de projetos e habilidades em desenvolvimento web.  
+🔹 **Projeto de gravismo (HTML + CSS)**  
+Interface desenvolvida com foco em prática de estilização e layout, utilizando apenas HTML e CSS para reforçar fundamentos de front-end.
+
+🔹 **Site da Severo Embalagens**  
+Desenvolvimento de site institucional para empresa, com foco em apresentação da marca, informações corporativas e estrutura web funcional.  
 Tecnologias: HTML, CSS, JavaScript
-
-🔹 **Projetos de Estudo em Python**  
-Scripts e automações simples para aprendizado de lógica e programação.
 
 ---
 
