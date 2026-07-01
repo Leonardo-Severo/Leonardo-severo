@@ -1,4 +1,10 @@
+<h1 align="center">Olá 👋, eu sou Leonardo Severo</h1>
 
+<p align="center">
+  💻 Desenvolvedor em formação | 🎓 Técnico em Informática | 📚 Foco em Java, Python e Desenvolvimento Web
+</p>
+
+---
 <p align="center">
   💻 Desenvolvedor em formação | 🎓 Técnico em Informática | 📚 Foco em Java, Python e Desenvolvimento Web
 </p>
